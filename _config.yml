@@ -6,9 +6,9 @@ color:
   saturation: 0.9146544544491917
   rhythmicContrast: 0.07108464115299284
   brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: hooton.org
