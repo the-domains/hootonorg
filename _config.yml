@@ -1,0 +1,14 @@
+layout_spectrum: 0.24217206286266446
+typography_spectrum: 0.15780552756041288
+color:
+  brandStrength: 0.04083752725273371
+  lightness: 0.25374208856374025
+  saturation: 0.9146544544491917
+  rhythmicContrast: 0.07108464115299284
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: hooton.org
