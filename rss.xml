@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[hooton.org]]></title>
+        <description><![CDATA[hooton.org]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jul 2016 23:17:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Barefoot Networks' New Chips Will Transform the Tech Industry]]></title>
+            <description><![CDATA[<article><h1>Barefoot Networks' New Chips Will Transform the Tech Industry</h1><p>These guys really excite me. Unlike standard whitebox switches which have taken traditional switch designs, removed proprietary software and given the owner ability to program existing silicon technology, Barefoot have gone a step further and made the entire architecture programmable.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bdf0fc77cb1fd926bf7aa6e775171f0dca9b8f6f.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/06/barefoot-networks-new-chips-will-transform-tech-industry/</link>
+            <guid isPermaLink="false">cce7581e-1491-4e47-a0dd-e9e12f76a37e</guid>
+            <pubDate>Tue, 12 Jul 2016 23:17:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
