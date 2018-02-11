@@ -30,7 +30,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -41,3 +40,9 @@ content:
 github: true
 title: DAVID HOOTON
 description: 'Nerd wrangler, Telco entrepreneur, lover of bacon..'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b571b94-ead1-40a4-8194-2724f622c55d.png
+author:
+  name: David Hooton
+  email: david@hooton.org
+  url: 'https://hooton.org'
